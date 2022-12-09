@@ -1,6 +1,6 @@
 Olá eu sou a Wesley Assis, estudante de Sistemas de Informação!
 
-- 📚 Atualmente estou aprendendo Java.
+- 👨‍🎓 Extremamente motivado, em constante desenvolvimento de minhas habilidades e crescimento profissional.
 
 
 <div align="center">
