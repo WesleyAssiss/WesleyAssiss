@@ -1,7 +1,6 @@
 Olá eu sou a Wesley Assis, estudante de Sistemas de Informação!
 
 - 🌱 Atualmente estou aprendendo Java.
-- 📫 Como chegar até mim: https://www.linkedin.com/in/wesley-assis-14a19b166/
 
 <div align="center">
   <a href="https://github.com/WesleyAssiss">
@@ -33,5 +32,3 @@ Olá eu sou a Wesley Assis, estudante de Sistemas de Informação!
 </div>
 
 
-
-https://www.instagram.com/wesleyassis1999/
