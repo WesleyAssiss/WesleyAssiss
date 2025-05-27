@@ -73,7 +73,7 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
 <br/>
 <br/>
 
-### 📊 Estatísticas
+<h3 align="center"> 📊 Estatísticas </h3>
 
 <p>
   <img
