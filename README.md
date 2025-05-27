@@ -4,7 +4,7 @@
 
 **`Desenvolvedor & Estudante de Sistemas de Informação`**
 
-Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante evolução e apaixonado por tecnologia. Extremamente motivado a desenvolver novas habilidades e impulsionar meu crescimento profissional, buscando sempre me manter atualizado com as tendências do mercado de desenvolvimento de software.
+Sou estudante de Sistemas de Informação em constante evolução e apaixonado por tecnologia. Extremamente motivado a desenvolver novas habilidades e impulsionar meu crescimento profissional, buscando sempre me manter atualizado com as tendências do mercado de desenvolvimento de software.
 
 <p align="center">
  <a href="https://github.com/WesleyAssiss?tab=repositories&sort=stargazers">
