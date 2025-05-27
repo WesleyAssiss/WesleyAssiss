@@ -68,30 +68,6 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 />
-<img
-    align="left"
-    alt="Git"
-    title="Git"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img
-    align="left"
-    alt="MySQL"
-    title="MySQL"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-<img
-    align="left"
-    alt="VS Code"
-    title="VS Code"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
-/>
 <br/>
 <br/>
 📊 Estatísticas
