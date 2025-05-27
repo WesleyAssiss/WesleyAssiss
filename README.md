@@ -50,12 +50,7 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
   </a>
 </div>
 <br/>
-<br/>
 
-### 🐍 Contribuições
-<p align="center">
-  <img alt="Snake animation" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
 
 <h3 align="center">📫 Conecte-se Comigo</h3>
 <p align="center">
