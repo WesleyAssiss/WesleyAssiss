@@ -20,11 +20,12 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
    />
  </a>
 <a href="https://github.com/WesleyAssiss?tab=repositories">
-   <img 
-     alt="Total de repositórios públicos no GitHub" 
-     title="Total de repositórios públicos no GitHub" 
-     src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FWesleyAssiss&query=%24.public_repos&label=repositórios&color=ff6b35&labelColor=orange&logo=github&logoColor=white&style=for-the-badge"
-   />
+   <img
+
+alt="Total de repositórios públicos no GitHub" 
+title="Total de repositórios públicos no GitHub" 
+src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FWesleyAssiss&query=%24.public_repos&label=Repositórios&color=ff6b35&labelColor=orange&logo=github&logoColor=white&style=for-the-badge"
+/>
  </a>
 </p>
 
