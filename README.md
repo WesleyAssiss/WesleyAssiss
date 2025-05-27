@@ -1,100 +1,146 @@
-<div align="center">
-  <h1>👨🏻‍💻 Olá, eu sou o Wesley Assis!</h1>
-</div>
+# 👨🏻‍💻 Wesley Assis
 
-<p align="center">
-  Desenvolvedor em formação & Estudante de Sistemas de Informação.
-  <br />
-  Sou um entusiasta de tecnologia, dedicado ao desenvolvimento de software e em constante evolução. Busco ativamente aprimorar minhas habilidades e me manter atualizado com as últimas tendências do mercado para construir soluções criativas e eficientes.
+**`Desenvolvedor & Estudante de Sistemas de Informação`**
+
+Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante evolução e apaixonado por tecnologia. Extremamente motivado a desenvolver novas habilidades e impulsionar meu crescimento profissional, buscando sempre me manter atualizado com as tendências do mercado de desenvolvimento de software.
+<p align="left">
+    <a href="https://github.com/WesleyAssiss?tab=repositories&sort=stargazers">
+        <img
+            alt="Total de estrelas"
+            title="Total de estrelas GitHub"
+            src="https://custom-icon-badges.demolab.com/github/stars/WesleyAssiss?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/WesleyAssiss?tab=followers">
+        <img
+            alt="Seguidores"
+            title="Me siga no GitHub"
+            src="https://custom-icon-badges.demolab.com/github/followers/WesleyAssiss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+    <a href="https://github.com/WesleyAssiss?tab=repositories">
+        <img
+            alt="Total de repositórios"
+            title="Total de repositórios"
+            src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FWesleyAssiss&query=%24.public_repos&style=for-the-badge&label=repositórios&labelColor=orange&color=ff6b35&logo=repo"
+        />
+    </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/WesleyAssiss?tab=repositories&sort=stargazers">
-    <img 
-      alt="Total de estrelas" 
-      title="Total de estrelas GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/stars/WesleyAssiss?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-    />
-  </a>
-  <a href="https://github.com/WesleyAssiss?tab=followers">
-    <img 
-      alt="Seguidores" 
-      title="Me siga no GitHub" 
-      src="https://custom-icon-badges.demolab.com/github/followers/WesleyAssiss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-    />
-  </a>
-  <a href="https://github.com/WesleyAssiss?tab=repositories">
-    <img 
-      alt="Total de repositórios" 
-      title="Total de repositórios" 
-      src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FWesleyAssiss&query=%24.public_repos&style=for-the-badge&label=repositórios&labelColor=orange&color=ff6b35&logo=repo"
-    />
-  </a>
-</p>
+🤖 Linguagens e Tecnologias
 
----
 
-## 🛠️ Linguagens e Ferramentas
-
-<p align="center">
-  <img alt="HTML5" title="HTML5" width="40px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" title="CSS3" width="40px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-  <img alt="JavaScript" title="JavaScript" width="40px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
-  <img alt="Python" title="Python" width="40px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img alt="Java" title="Java" width="40px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-  <img alt="Git" title="Git" width="40px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img alt="MySQL" title="MySQL" width="40px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/> <img alt="VS Code" title="VS Code" width="40px" style="padding: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-</p>
-
----
-
-## 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-  <img 
-    alt="Estatísticas do GitHub de WesleyAssiss" 
-    height="195px" 
-    src="https://github-readme-stats.vercel.app/api?username=WesleyAssiss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br&hide_border=true"
+<img
+    align="left"
+    alt="HTML"
+    title="HTML"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
+/>
+<img
+    align="left"
+    alt="CSS"
+    title="CSS"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+/>
+<img
+    align="left"
+    alt="JavaScript"
+    title="JavaScript"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+/>
+<img
+    align="left"
+    alt="Git"
+    title="Git"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img
+    align="left"
+    alt="MySQL"
+    title="MySQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<img
+    align="left"
+    alt="VS Code"
+    title="VS Code"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+<br/>
+<br/>
+📊 Estatísticas
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=WesleyAssiss&showicons=true&theme=tokyonight&includeallcommits=true&locale=pt-br"
   />
-  <img 
-    alt="Linguagens Mais Usadas por WesleyAssiss" 
-    height="195px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyAssiss&theme=tokyonight&layout=compact&langs_count=9&locale=pt-br&hide_border=true&custom_title=Principais+Linguagens"
-  />
-</div>
-
----
-
-## 🐍 Minha Trilha de Contribuições
-
-<p align="center">
-  <img 
-    alt="Animação da cobrinha de contribuições do GitHub de WesleyAssiss" 
-    src="https://raw.githubusercontent.com/WesleyAssiss/WesleyAssiss/output/github-contribution-grid-snake.circular.svg" 
+<img
+      align="left"
+      alt="GitHub Stats"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyAssiss&theme=tokyonight&layout=compact&customtitle=Tecnologias&langs_count=9"
   />
 </p>
-
----
-
-## ✨ Sobre Mim
-
-- 🎓 Cursando **Sistemas de Informação** com ênfase em Engenharia de Software.
-- 💻 Focado no desenvolvimento **Full Stack**, explorando tanto o Front-end quanto o Back-end.
-- 🌱 Apaixonado por aprender e aplicar **novas tecnologias** para resolver problemas complexos.
-- 🎯 Objetivo principal: Tornar-me um **Desenvolvedor Full Stack** proficiente e versátil.
-- 💡 Curiosidade: Adoro o desafio de transformar ideias em realidade através da **lógica e da programação**!
-
----
-
-## 🔗 Conecte-se Comigo
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+🐍 Contribuições
 <p align="center">
-  <a href="https://www.linkedin.com/in/wesley-assis-14a19b166/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img alt="Snake animation" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+📫 Conecte-se Comigo
+<p align="left">
+  <a href="https://www.linkedin.com/in/wesley-assis-14a19b166/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:wesleyassis1999@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/wesleyassiss_/" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  <a href="https://www.instagram.com/wesleyassiss/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
+💡 Sobre Mim
+
+🎓 Estudante de Sistemas de Informação
+💻 Focado em desenvolvimento Front-end e Back-end
+🌱 Sempre aprendendo novas tecnologias
+🎯 Objetivo: Me tornar um desenvolvedor Full Stack completo
+⚡ Curiosidade: Apaixonado por resolver problemas através do código
