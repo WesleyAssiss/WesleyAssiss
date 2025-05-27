@@ -84,7 +84,7 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
     src="https://github-readme-stats.vercel.app/api?username=WesleyAssiss&showicons=true&theme=tokyonight&includeallcommits=true&locale=pt-br"
   />
 <img
-      align="left"
+      align="center"
       alt="GitHub Stats"
       height="200"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyAssiss&theme=tokyonight&layout=compact&customtitle=Tecnologias&langs_count=9"
