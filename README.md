@@ -56,14 +56,6 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
 
 ---
 
-## 🐍 Minha Trilha de Contribuições
-
-<p align="center">
-  <img alt="Animação da cobra de contribuições do GitHub de WesleyAssiss" src="https://raw.githubusercontent.com/WesleyAssiss/WesleyAssiss/output/github-contribution-grid-snake.circular.svg" />
-</p>
-
----
-
 ## 🔗 Conecte-se Comigo
 
 <p align="center">
