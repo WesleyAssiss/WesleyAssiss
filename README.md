@@ -26,7 +26,9 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
         />
     </a>
 </p>
-🤖 Linguagens e Tecnologias
+
+### 🤖 Linguagens e Tecnologias
+
 
 <img
     align="left"
@@ -70,7 +72,9 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
 />
 <br/>
 <br/>
-📊 Estatísticas
+
+### 📊 Estatísticas
+
 <p>
   <img
     align="left"
@@ -95,6 +99,7 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
 <br/>
 <br/>
 <br/>
+
 🐍 Contribuições
 <p align="center">
   <img alt="Snake animation" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
