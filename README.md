@@ -44,7 +44,7 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <div align="center">
  <a href="https://github.com/WesleyAssiss">
