@@ -9,35 +9,25 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2 # Checkout do seu repositório
+      - uses: actions/checkout@v2 # Faz o checkout do seu repositório
 
-      # Usa a ação Platane/snk na versão v0.1.0
-      # O output será diretamente o SVG no caminho especificado
-      - uses: Platane/snk@v0.1.0 # <<<<<<<<<<<<<< MUDANÇA AQUI: de @master para @v0.1.0
+      # Usa a ação Platane/snk@master
+      # NOTA: Usamos 'svg_out_path' porque o erro anterior indicou que 'outputs' era inválido
+      - uses: Platane/snk@master # <<<<<<<<<<<<<< Voltamos para @master
         id: snake-gif
         with:
           github_user_name: WesleyAssiss # Seu nome de usuário do GitHub
-          outputs: dist/github-contribution-grid-snake.svg # <<<<<<<<<<<<<< MUDANÇA AQUI: Volta a usar 'outputs' e especifica o caminho direto
+          svg_out_path: dist/github-contribution-grid-snake.svg # <<<<<<<<<<<<<< Usando svg_out_path
 
-      # Este passo renomeia a cobrinha circular e a cobrinha escura.
-      # Ele copia o SVG gerado para os nomes de arquivo que você espera no README.md.
-      - name: Create themed snake files
+      # Este passo é crucial para garantir que a pasta 'dist' exista
+      # e para copiar o SVG gerado para os nomes que você usa no README.md.
+      - name: Create themed snake files and ensure dist
         run: |
-          # A ação Platane/snk já gera o arquivo na dist/ por padrão
+          mkdir -p dist # Garante que a pasta 'dist' existe, se a ação anterior não a criou
+          # A ação 'Platane/snk' com 'svg_out_path' já deve ter colocado o arquivo em dist/
           # Agora, vamos copiar esse arquivo para os nomes específicos que você usa no README.md
           cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
           cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.circular.svg
-        # Certifica-se de que a pasta 'dist' exista antes de copiar
-        # Isso é crucial se a ação anterior não a criar ou se falhar antes.
-        working-directory: dist
-        # Se a pasta 'dist' não existir, este comando pode falhar.
-        # Uma alternativa mais robusta seria:
-        # run: |
-        #   mkdir -p dist
-        #   mv github-contribution-grid-snake.svg dist/github-contribution-grid-snake.svg
-        #   cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
-        #   cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.circular.svg
-
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
