@@ -105,8 +105,7 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
   <img alt="Snake animation" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
-
-### 📫 Conecte-se Comigo
+<h3 align="center">📫 Conecte-se Comigo</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/wesley-assis-14a19b166/" target="blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
