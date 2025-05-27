@@ -16,11 +16,8 @@
   </a>
 </div>
 
-<h3 align="center">Minhas Contribuições (GitHub Snake)</h3>
-
 <p align="center">
-  <img alt="Snake animation"
-       src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.circular.svg?color_1=30a2ff&color_2=5e81f4&color_3=8257e5&color_4=d284ff&background=1C1C1C&dots=true" />
+  <img alt="Snake animation" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
