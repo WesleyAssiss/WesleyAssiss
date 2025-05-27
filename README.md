@@ -1,8 +1,10 @@
 # 👨🏻‍💻 Wesley Assis
 
-**`Desenvolvedor & Estudante de Sistemas de Informação`**
-
-Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante evolução e apaixonado por tecnologia. Extremamente motivado a desenvolver novas habilidades e impulsionar meu crescimento profissional, buscando sempre me manter atualizado com as tendências do mercado de desenvolvimento de software.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+%26+Estudante+de+Sistemas+de+Informação;Apaixonado+por+tecnologia+e+em+constante+evolução.;Buscando+novos+desafios+e+crescimento+profissional!&font=Segoe+UI&center=true&vCenter=true&width=650&height=100&pause=1000&color=36BCF7&background=00000000&duration=2500" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
  <a href="https://github.com/WesleyAssiss?tab=repositories&sort=stargazers">
