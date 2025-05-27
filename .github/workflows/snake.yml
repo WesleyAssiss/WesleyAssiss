@@ -25,11 +25,21 @@ jobs:
 
       - name: Ensure dist directory and copy files
         run: |
+          echo "=== Conteúdo do diretório de trabalho ANTES de qualquer operação no dist ==="
+          ls -la
+          echo "=== Criando diretório dist (se não existir) ==="
           mkdir -p dist
-          # Verifica se o arquivo foi gerado
-          ls -l dist/
-          # Tenta copiar com verificação de existência
-          [ -f dist/github-contribution-grid-snake.svg ] && cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.circular.svg || echo "Original SVG not found"
+          echo "=== Conteúdo do diretório dist APÓS Platane/snk (ANTES da cópia) ==="
+          ls -la dist/
+          if [ -f "dist/github-contribution-grid-snake.svg" ]; then
+            echo "Arquivo 'dist/github-contribution-grid-snake.svg' ENCONTRADO. Copiando para 'dist/github-contribution-grid-snake.circular.svg'..."
+            cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.circular.svg
+            echo "Cópia concluída."
+          else
+            echo "ERRO: Arquivo 'dist/github-contribution-grid-snake.svg' NÃO FOI ENCONTRADO. Não foi possível copiar."
+          fi
+          echo "=== Conteúdo do diretório dist APÓS a tentativa de cópia ==="
+          ls -la dist/
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
