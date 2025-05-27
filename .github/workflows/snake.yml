@@ -1,30 +1,43 @@
 name: Generate Snake
 
 on:
-  schedule: # Executa a cada 12 horas (pode ajustar para 24 se preferir)
-    - cron: "0 */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *" # Executa a cada 12 horas
   workflow_dispatch: # Permite execução manual
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2 # Faz o checkout do seu repositório
-      - uses: Platane/snk@master # Usa a ação Platane/snk
+      - uses: actions/checkout@v2 # Checkout do seu repositório
+
+      # Usa a ação Platane/snk na versão v0.1.0
+      # O output será diretamente o SVG no caminho especificado
+      - uses: Platane/snk@v0.1.0 # <<<<<<<<<<<<<< MUDANÇA AQUI: de @master para @v0.1.0
         id: snake-gif
         with:
           github_user_name: WesleyAssiss # Seu nome de usuário do GitHub
-          # Caminhos de saída para os SVGs (agora com o parâmetro correto 'svg_out_path')
-          svg_out_path: dist/github-contribution-grid-snake.svg
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          outputs: dist/github-contribution-grid-snake.svg # <<<<<<<<<<<<<< MUDANÇA AQUI: Volta a usar 'outputs' e especifica o caminho direto
 
-      # Este passo renomeia a cobrinha circular e a cobrinha escura se você quiser usá-las
+      # Este passo renomeia a cobrinha circular e a cobrinha escura.
+      # Ele copia o SVG gerado para os nomes de arquivo que você espera no README.md.
       - name: Create themed snake files
         run: |
-          mv dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.svg # Mantém o padrão
-          cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg # Copia e pode ser tematizado via URL
-          cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.circular.svg # Copia e pode ser tematizado via URL e formato
+          # A ação Platane/snk já gera o arquivo na dist/ por padrão
+          # Agora, vamos copiar esse arquivo para os nomes específicos que você usa no README.md
+          cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
+          cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.circular.svg
+        # Certifica-se de que a pasta 'dist' exista antes de copiar
+        # Isso é crucial se a ação anterior não a criar ou se falhar antes.
+        working-directory: dist
+        # Se a pasta 'dist' não existir, este comando pode falhar.
+        # Uma alternativa mais robusta seria:
+        # run: |
+        #   mkdir -p dist
+        #   mv github-contribution-grid-snake.svg dist/github-contribution-grid-snake.svg
+        #   cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
+        #   cp dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake.circular.svg
+
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
