@@ -20,12 +20,13 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
    />
  </a>
  
-<img
-
- alt="Total de repositórios" 
- title="Total de repositórios" 
- src="https://komarev.com/ghpvc/?username=WesleyAssiss&color=ff6b35&style=for-the-badge&label=Repositórios"
+<a href="https://github.com/WesleyAssiss?tab=repositories">
+<img 
+ alt="Total de repositórios públicos" 
+ title="Total de repositórios públicos" 
+ src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FWesleyAssiss&query=%24.public_repos&label=REPOSITORIOS"
 />
+</a>
 
 </p>
 
