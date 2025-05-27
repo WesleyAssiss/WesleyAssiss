@@ -40,9 +40,6 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
  <img alt="JavaScript" title="JavaScript" height="40" width="40" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
  <img alt="Python" title="Python" height="40" width="40" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
  <img alt="Java" title="Java" height="40" width="40" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
- <img alt="Git" title="Git" height="40" width="40" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
- <img alt="MySQL" title="MySQL" height="40" width="40" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
- <img alt="VS Code" title="VS Code" height="40" width="40" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
 </p>
 
 ---
