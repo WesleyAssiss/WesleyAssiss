@@ -22,7 +22,7 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
    <img 
      alt="Seguidores no GitHub" 
      title="Me siga no GitHub" 
-     src="https://custom-icon-badges.demolab.com/github/followers/WesleyAssiss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    src="https://custom-icon-badges.demolab.com/github/followers/WesleyAssiss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
    />
  </a>
  
