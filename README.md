@@ -83,13 +83,6 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
 </div>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ### 🐍 Contribuições
 <p align="center">
