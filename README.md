@@ -27,13 +27,14 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
     </a>
 </p>
 
-<h3 align="center">Tecnologias & Ferramentas</h3>
+<h3 align="center">🤖 Tecnologias & Ferramentas</h3>
 
 <p align="center">
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   </p>
 ### 🤖 Linguagens e Tecnologias
 
