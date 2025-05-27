@@ -24,7 +24,7 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
 <img 
   alt="Total de repositórios públicos" 
   title="Total de repositórios públicos" 
-  src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FWesleyAssiss&query=%24.public_repos&label=REPOSITORIOS&style=for-the-badge"
+  src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FWesleyAssiss&query=%24.public_repos&label=reposit%C3%B3rios&color=ff6b35&labelColor=orange&logo=github&logoColor=white&style=for-the-badge"
 />
 </a>
 
