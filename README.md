@@ -19,7 +19,7 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
      src="https://custom-icon-badges.demolab.com/github/followers/WesleyAssiss?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
    />
  </a>
- <a href="https://github.com/WesleyAssiss?tab=repositories">
+<a href="https://github.com/WesleyAssiss?tab=repositories">
    <img 
      alt="Total de repositórios públicos no GitHub" 
      title="Total de repositórios públicos no GitHub" 
