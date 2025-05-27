@@ -15,7 +15,7 @@ My name is Wesley Assis, I am an Information Systems student, constantly evolvin
    <img 
      alt="Total GitHub Stars" 
      title="Total GitHub Stars" 
-     src="https://custom-icon-badges.demolab.com/github/stars/WesleyAssiss?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars" 
+     src="https://custom-icon-badges.demolab.com/github/stars/WesleyAssiss?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
    />
  </a>
  <a href="https://github.com/WesleyAssiss?tab=followers">
