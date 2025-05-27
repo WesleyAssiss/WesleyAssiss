@@ -32,7 +32,7 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🤖 Linguagens e Tecnologias
 
 <p align="center">
  <img alt="HTML5" title="HTML5" height="40" width="40" style="margin: 0 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
