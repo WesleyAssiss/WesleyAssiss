@@ -1,4 +1,6 @@
-# 👨🏻‍💻 Wesley Assis
+<div align="center">
+  <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="Mão Acenando" width="40" height="40"/> Olá, eu sou o Wesley Assis!</h1>
+</div>
 
 **`Desenvolvedor & Estudante de Sistemas de Informação`**
 
