@@ -1,10 +1,14 @@
+<div align="right">
+  <a href="README.en.md"><img src="https://img.shields.io/badge/View%20in-English-blue?style=for-the-badge&logo=google-translate" alt="View in English"/></a>
+</div>
+
 <div align="center">
   <h1><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="Mão Acenando" width="40" height="40"/> Olá, eu sou o Wesley Assis!</h1>
 </div>
 
 **`Desenvolvedor & Estudante de Sistemas de Informação`**
 
-Sou estudante de Sistemas de Informação em constante evolução e apaixonado por tecnologia. Extremamente motivado a desenvolver novas habilidades e impulsionar meu crescimento profissional, buscando sempre me manter atualizado com as tendências do mercado de desenvolvimento de software.
+Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante evolução e apaixonado por tecnologia. Extremamente motivado a desenvolver novas habilidades e impulsionar meu crescimento profissional, buscando sempre me manter atualizado com as tendências do mercado de desenvolvimento de software.
 
 <p align="center">
  <a href="https://github.com/WesleyAssiss?tab=repositories&sort=stargazers">
