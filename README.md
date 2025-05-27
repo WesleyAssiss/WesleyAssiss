@@ -77,7 +77,7 @@ Me chamo Wesley Assis, sou estudante de Sistemas de Informação em constante ev
 
 <p>
   <img
-    align="left"
+    align="center"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
