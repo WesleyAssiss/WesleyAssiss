@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00D2FF&background=0D111700&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Full+Stack+Developer+🚀;Java+·+Spring+Boot+·+Microservices+☕;React+·+Vue+·+Angular+·+TypeScript+🌐;iOS+Swift+·+Android+Kotlin+📱;Azure+·+Docker+·+CI%2FCD+☁️;Salesforce+·+PegaSystem+·+Mainframe+🏢;Building+high-impact+software+🏗️" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=900&color=00D2FF&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Spring+Boot+%26+Microservices+Specialist;Mobile+Developer+iOS+Swift+%26+Android+Kotlin;Cloud+Architect+Microsoft+Azure+%26+DevOps;Clean+Code+%7C+TDD+%7C+BDD+%7C+SonarQube;Information+Systems+%7C+Brazil" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -42,11 +42,10 @@
 /**
  * @author   Wesley Assis
  * @version  2026.04
- * @role     Full Stack Developer
  * @location Conselheiro Lafaiete, MG - Brazil
  */
 @Developer @FullStack @Innovator
-public class WesleyAssis implements FullStackDeveloperLife {
+public class WesleyAssis implements EngineerLife {
 
   private final String degree = "Information Systems";
 
@@ -72,8 +71,6 @@ public class WesleyAssis implements FullStackDeveloperLife {
     "Mainframe . COBOL . JCL . CICS (Online & Batch)",
     "C4 Model . Confluence . Figma . Scrum . Kanban"
   };
-
-  public String role() { return "Full Stack Developer 💻"; }
 
   public String philosophy() {
     return "Understand the problem first. Then write the code.";
@@ -185,19 +182,27 @@ public class WesleyAssis implements FullStackDeveloperLife {
 ## 🏆 &nbsp;Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WesleyAssiss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WesleyAssiss&theme=tokyonight" width="48%" alt="GitHub Stats Card"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=WesleyAssiss&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=6e40c9&text_color=c9d1d9&ring_color=6e40c9&show=reviews,prs_merged,prs_merged_percentage" width="48%" alt="Extended GitHub Stats"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🌌 &nbsp;3D Contribution Calendar
+## 📈 &nbsp;Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WesleyAssiss/WesleyAssiss/Principal/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyAssiss&theme=tokyonight" width="100%" alt="Profile Summary"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <sub>💡 Enable with the <a href="https://github.com/yoshi389111/github-profile-3d-contrib">GitHub Action <code>yoshi389111/github-profile-3d-contrib</code></a> in your profile repository (branch: <code>Principal</code>).</sub>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WesleyAssiss&theme=tokyonight" width="32%" alt="Repos per Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WesleyAssiss&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WesleyAssiss&theme=tokyonight&utcOffset=-3" width="32%" alt="Productive Time"/>
 </div>
 
 <br/>
