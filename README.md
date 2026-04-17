@@ -5,11 +5,11 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:00d2ff,50:6e40c9,75:ff6b35,100:0d1117&height=280&section=header&text=Wesley%20Assis&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Sistemas%20de%20Informação&descSize=22&descAlignY=58&animation=twinkling&stroke=6e40c9&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:00d2ff,50:6e40c9,75:ff6b35,100:0d1117&height=280&section=header&text=Wesley%20Assis&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20Full%20Stack%20%7C%20Sistemas%20de%20Informação&descSize=22&descAlignY=58&animation=twinkling&stroke=6e40c9&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=900&color=00D2FF&background=0D111700&center=true&vCenter=true&multiline=false&width=760&height=50&lines=Engenheiro+de+Software+Full+Stack+🚀;Especialista+em+Spring+Boot+%26+Microsserviços+☕;Desenvolvedor+Mobile+%7C+iOS+Swift+%26+Android+Kotlin+📱;Arquiteto+Cloud+%7C+Microsoft+Azure+%26+DevOps+☁️;Clean+Code+%7C+TDD+%7C+BDD+%7C+SonarQube+🧪;Sistemas+de+Informação+%7C+Conselheiro+Lafaiete+🇧🇷" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00D2FF&background=0D111700&center=true&vCenter=true&multiline=false&width=800&height=50&lines=Desenvolvedor+Full+Stack+🚀;Java+·+Spring+Boot+·+Microsserviços+☕;React+·+Vue+·+Angular+·+TypeScript+🌐;iOS+Swift+·+Android+Kotlin+📱;Azure+·+Docker+·+CI%2FCD+☁️;Salesforce+·+PegaSystem+·+Mainframe+🏢;Construindo+software+de+alto+impacto+🏗️" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -42,10 +42,11 @@
 /**
  * @author   Wesley Assis
  * @version  2026.04
+ * @role     Desenvolvedor Full Stack
  * @location Conselheiro Lafaiete, MG 🇧🇷
  */
 @Developer @FullStack @Innovator
-public class WesleyAssis implements EngineerLife {
+public class WesleyAssis implements FullStackDeveloperLife {
 
   private final String degree = "Sistemas de Informação";
 
@@ -71,6 +72,8 @@ public class WesleyAssis implements EngineerLife {
     "Mainframe · COBOL · JCL · CICS (Online & Batch)",
     "C4 Model · Confluence · Figma · Scrum · Kanban"
   };
+
+  public String role() { return "Desenvolvedor Full Stack 💻"; }
 
   @Override
   public String currentMission() {
@@ -189,7 +192,7 @@ public class WesleyAssis implements EngineerLife {
 ## 🏆 &nbsp;Conquistas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WesleyAssiss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=WesleyAssiss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="GitHub Trophies"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -197,7 +200,7 @@ public class WesleyAssis implements EngineerLife {
 ## 🌌 &nbsp;Calendário de Contribuições 3D
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WesleyAssiss/WesleyAssiss/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%"/>
+  <img src="https://raw.githubusercontent.com/WesleyAssiss/WesleyAssiss/Principal/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%"/>
 </div>
 
 <div align="center">
