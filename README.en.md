@@ -1,15 +1,15 @@
 <div align="right">
   <a href="README.md">
-    <img src="https://img.shields.io/badge/🌐%20Versão%20em-Português-009c3b?style=for-the-badge&labelColor=0d1117&logo=google-translate&logoColor=white" alt="Versão em Português"/>
+    <img src="https://img.shields.io/badge/PT-Versao%20em%20Portugues-009c3b?style=for-the-badge&labelColor=0d1117&logo=google-translate&logoColor=white" alt="Versao em Portugues"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:00d2ff,50:6e40c9,75:ff6b35,100:0d1117&height=280&section=header&text=Wesley%20Assis&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%7C%20Information%20Systems&descSize=22&descAlignY=58&animation=twinkling&stroke=6e40c9&strokeWidth=2" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:00d2ff,50:6e40c9,75:ff6b35,100:0d1117&height=280&section=header&text=Wesley%20Assis&fontSize=72&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Information%20Systems&descSize=22&descAlignY=58&animation=twinkling&stroke=6e40c9&strokeWidth=2" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=900&color=00D2FF&background=0D111700&center=true&vCenter=true&multiline=false&width=760&height=50&lines=Full+Stack+Software+Engineer+🚀;Spring+Boot+%26+Microservices+Specialist+☕;Mobile+Developer+%7C+iOS+Swift+%26+Android+Kotlin+📱;Cloud+Architect+%7C+Microsoft+Azure+%26+DevOps+☁️;Clean+Code+%7C+TDD+%7C+BDD+%7C+SonarQube+🧪;Information+Systems+%7C+Brazil+🇧🇷" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=900&color=00D2FF&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Spring+Boot+%26+Microservices+Specialist;Mobile+Developer+iOS+Swift+%26+Android+Kotlin;Cloud+Architect+Microsoft+Azure+%26+DevOps;Clean+Code+%7C+TDD+%7C+BDD+%7C+SonarQube;Information+Systems+%7C+Brazil" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -42,7 +42,7 @@
 /**
  * @author   Wesley Assis
  * @version  2026.04
- * @location Conselheiro Lafaiete, MG 🇧🇷
+ * @location Conselheiro Lafaiete, MG - Brazil
  */
 @Developer @FullStack @Innovator
 public class WesleyAssis implements EngineerLife {
@@ -50,10 +50,10 @@ public class WesleyAssis implements EngineerLife {
   private final String degree = "Information Systems";
 
   private final List<String> core = List.of(
-    "Java · Spring Boot · Spring WebFlux · Project Reactor",
-    "Microservices · RabbitMQ · Kafka · REST APIs",
-    "React · Vue · Angular · TypeScript · JavaScript",
-    "iOS (Swift) · Android (Kotlin) · Native Mobile"
+    "Java . Spring Boot . Spring WebFlux . Project Reactor",
+    "Microservices . RabbitMQ . Kafka . REST APIs",
+    "React . Vue . Angular . TypeScript . JavaScript",
+    "iOS (Swift) . Android (Kotlin) . Native Mobile"
   );
 
   private final Map<String, String[]> infra = Map.of(
@@ -66,19 +66,14 @@ public class WesleyAssis implements EngineerLife {
   );
 
   private final String[] enterprise = {
-    "Salesforce · Apex · LWC · Flow Builder",
-    "PegaSystem · App Studio · Dev Studio · Case Lifecycle",
-    "Mainframe · COBOL · JCL · CICS (Online & Batch)",
-    "C4 Model · Confluence · Figma · Scrum · Kanban"
+    "Salesforce . Apex . LWC . Flow Builder",
+    "PegaSystem . App Studio . Dev Studio . Case Lifecycle",
+    "Mainframe . COBOL . JCL . CICS (Online & Batch)",
+    "C4 Model . Confluence . Figma . Scrum . Kanban"
   };
 
-  @Override
-  public String currentMission() {
-    return "Building high-impact, truly scalable software 🏗️";
-  }
-
   public String philosophy() {
-    return "Understand the problem first. Then write the code. 🧩";
+    return "Understand the problem first. Then write the code.";
   }
 }
 ```
@@ -115,8 +110,6 @@ public class WesleyAssis implements EngineerLife {
 
 <div align="center">
 
-### 🏢 &nbsp;Enterprise Platforms & Specialties
-
 ![Salesforce](https://img.shields.io/badge/Salesforce-Apex%20%7C%20LWC%20%7C%20Flow%20Builder-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 &nbsp;
 ![PegaSystem](https://img.shields.io/badge/PegaSystem-App%20Studio%20%7C%20Dev%20Studio-003366?style=for-the-badge&logo=pegasystems&logoColor=white)
@@ -147,16 +140,16 @@ public class WesleyAssis implements EngineerLife {
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════════════╗
-║                           🗺️  DOMAINS OF EXPERTISE                                 ║
+║                           DOMAINS OF EXPERTISE                                       ║
 ╠════════════════════╦═════════════════════╦═════════════════════╦════════════════════╣
-║  🔥 CORE DEV        ║  ☁️  ARCHITECTURE    ║  🏢 ENTERPRISE       ║  🔬 QUALITY        ║
+║  CORE DEV           ║  ARCHITECTURE       ║  ENTERPRISE          ║  QUALITY           ║
 ╠════════════════════╬═════════════════════╬═════════════════════╬════════════════════╣
-║  Java I · II · III  ║  Microservices      ║  Salesforce Apex     ║  TDD & BDD         ║
+║  Java I . II . III  ║  Microservices      ║  Salesforce Apex     ║  TDD & BDD         ║
 ║  Spring Boot        ║  RabbitMQ & Kafka   ║  LWC & Flow Builder  ║  JUnit & Mockito   ║
 ║  Spring WebFlux     ║  Azure Cloud        ║  PegaSystem          ║  Cucumber          ║
-║  Kotlin & Swift     ║  Docker & CI/CD     ║  COBOL · JCL · CICS  ║  SonarQube         ║
+║  Kotlin & Swift     ║  Docker & CI/CD     ║  COBOL . JCL . CICS  ║  SonarQube         ║
 ║  React/Vue/Angular  ║  GitHub Actions     ║  Dynatrace & ELK     ║  SRE Bronze/Silver ║
-║  PHP & Node.js      ║  Linux & Bash       ║  C4 · Confluence     ║  JWT & OAuth2      ║
+║  PHP & Node.js      ║  Linux & Bash       ║  C4 . Confluence     ║  JWT & OAuth2      ║
 ╚════════════════════╩═════════════════════╩═════════════════════╩════════════════════╝
 ```
 
@@ -181,7 +174,7 @@ public class WesleyAssis implements EngineerLife {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WesleyAssiss&bg_color=0d1117&color=00d2ff&line=6e40c9&point=ff6b35&area=true&area_color=6e40c9&hide_border=true&custom_title=Contribution%20Activity%20(30%20days)" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WesleyAssiss&bg_color=0d1117&color=00d2ff&line=6e40c9&point=ff6b35&area=true&area_color=6e40c9&hide_border=true&custom_title=Contribution+Activity" width="100%" alt="Activity Graph"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -189,19 +182,25 @@ public class WesleyAssis implements EngineerLife {
 ## 🏆 &nbsp;Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WesleyAssiss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=WesleyAssiss&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" alt="GitHub Trophies"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🌌 &nbsp;3D Contribution Calendar
+## 📈 &nbsp;Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/WesleyAssiss/WesleyAssiss/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Calendar" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WesleyAssiss&theme=tokyonight" width="100%" alt="Profile Summary"/>
 </div>
 
+<br/>
+
 <div align="center">
-  <sub>💡 Enable with <a href="https://github.com/yoshi389111/github-profile-3d-contrib">GitHub Action <code>yoshi389111/github-profile-3d-contrib</code></a> in your profile repository.</sub>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WesleyAssiss&theme=tokyonight" width="32%" alt="Repos per Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WesleyAssiss&theme=tokyonight" width="32%" alt="Most Commit Language"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WesleyAssiss&theme=tokyonight&utcOffset=-3" width="32%" alt="Productive Time"/>
 </div>
 
 <br/>
@@ -221,25 +220,25 @@ public class WesleyAssis implements EngineerLife {
 <div align="center">
 
 ```
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║                            🚀  CONTINUOUS EVOLUTION                               ║
-╠════════════════════════════════════╦══════════════════════════════════════════════╣
-║  STATUS                             ║  SKILL / GOAL                               ║
-╠════════════════════════════════════╬══════════════════════════════════════════════╣
-║  ✅  Completed                       ║  Java Core I, II & III · JVM & OOP         ║
-║  ✅  Completed                       ║  Spring Boot · Security · Data · WebFlux   ║
-║  ✅  Completed                       ║  REST APIs · JWT · OAuth2 · HTTPS          ║
-║  ✅  Completed                       ║  Microservices · RabbitMQ · Kafka          ║
-║  ✅  Completed                       ║  Azure · Docker · GitHub Actions · CI/CD   ║
-║  ✅  Completed                       ║  TDD · BDD · JUnit · Mockito · Cucumber    ║
-║  ✅  Completed                       ║  Salesforce · PegaSystem · Mainframe COBOL ║
-║  ✅  Completed                       ║  SRE Bronze & Silver · Dynatrace · ELK     ║
-║  🔄  In Progress                     ║  Advanced TypeScript · Next.js             ║
-║  🔄  In Progress                     ║  Kotlin Multiplatform · SwiftUI            ║
-║  📌  Planned                         ║  Kubernetes · Service Mesh (Istio)         ║
-║  📌  Planned                         ║  AWS Solutions Architect Associate         ║
-║  📌  Planned                         ║  Rust · WebAssembly                        ║
-╚════════════════════════════════════╩══════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════════════╗
+║                               CONTINUOUS EVOLUTION                                    ║
+╠════════════════════════════════════╦══════════════════════════════════════════════════╣
+║  STATUS                             ║  SKILL / GOAL                                   ║
+╠════════════════════════════════════╬══════════════════════════════════════════════════╣
+║  Completed                          ║  Java Core I, II & III . JVM & OOP              ║
+║  Completed                          ║  Spring Boot . Security . Data . WebFlux        ║
+║  Completed                          ║  REST APIs . JWT . OAuth2 . HTTPS               ║
+║  Completed                          ║  Microservices . RabbitMQ . Kafka               ║
+║  Completed                          ║  Azure . Docker . GitHub Actions . CI/CD        ║
+║  Completed                          ║  TDD . BDD . JUnit . Mockito . Cucumber         ║
+║  Completed                          ║  Salesforce . PegaSystem . COBOL Mainframe      ║
+║  Completed                          ║  SRE Bronze & Silver . Dynatrace . ELK          ║
+║  In Progress                        ║  Advanced TypeScript . Next.js                  ║
+║  In Progress                        ║  Kotlin Multiplatform . SwiftUI                 ║
+║  Planned                            ║  Kubernetes . Service Mesh (Istio)              ║
+║  Planned                            ║  AWS Solutions Architect Associate              ║
+║  Planned                            ║  Rust . WebAssembly                             ║
+╚════════════════════════════════════╩══════════════════════════════════════════════════╝
 ```
 
 </div>
